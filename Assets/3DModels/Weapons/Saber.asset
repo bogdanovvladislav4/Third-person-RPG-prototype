@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff55b23c2d31edc4eb4000259fd0b255, type: 3}
+  m_Name: Saber
+  m_EditorClassIdentifier: 
+  weapon: {fileID: 1865792790380918722, guid: 1f9299e99579a8d48a85d8cf7eb45ba8, type: 3}
+  damage: 10
+  maxDistance: 0.677
